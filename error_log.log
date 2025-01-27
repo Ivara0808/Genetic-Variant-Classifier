@@ -1,0 +1,26 @@
+2025-01-20 13:15:24,109 - INFO - Low Quality Variants (Quality <= 20): 2175
+2025-01-20 13:15:24,109 - INFO - Variants that have been categorized: 8370 Variants
+2025-01-20 13:15:24,109 - INFO -  - Non-coding variants: 2380
+2025-01-20 13:15:24,109 - INFO -  - Synonymous variants: 1628
+2025-01-20 13:15:24,109 - INFO -  - Non-Synonymous variants: 4362
+2025-01-20 13:15:24,109 - INFO - Results saved: View Output_Variants.tsv and Variant_Numbers.png
+2025-01-20 14:48:15,409 - INFO - Low Quality Variants (Quality <= 20): 2175
+2025-01-20 14:48:15,410 - INFO - Variants that have been categorized: 8370 Variants
+2025-01-20 14:48:15,410 - INFO -  - Non-coding variants: 2380
+2025-01-20 14:48:15,410 - INFO -  - Synonymous variants: 1628
+2025-01-20 14:48:15,410 - INFO -  - Non-Synonymous variants: 4362
+2025-01-20 14:48:15,410 - INFO - Results saved: View Output_Variants.tsv and Variant_Numbers.png
+2025-01-20 14:50:55,012 - ERROR - Some sequences lengths are not muliples of 3 
+2025-01-20 14:51:01,413 - INFO - Low Quality Variants (Quality <= 20): 2175
+2025-01-20 14:51:01,413 - INFO - Variants that have been categorized: 8370 Variants
+2025-01-20 14:51:01,413 - INFO -  - Non-coding variants: 2380
+2025-01-20 14:51:01,414 - INFO -  - Synonymous variants: 1628
+2025-01-20 14:51:01,414 - INFO -  - Non-Synonymous variants: 4362
+2025-01-20 14:51:01,414 - INFO - Results saved: View Output_Variants.tsv and Variant_Numbers.png
+2025-01-20 14:51:38,604 - ERROR - Some sequences lengths are not muliples of 3 
+2025-01-20 14:51:44,434 - INFO - Low Quality Variants (Quality <= 20): 2175
+2025-01-20 14:51:44,435 - INFO - Variants that have been categorized: 8370 Variants
+2025-01-20 14:51:44,435 - INFO -  - Non-coding variants: 2380
+2025-01-20 14:51:44,435 - INFO -  - Synonymous variants: 1628
+2025-01-20 14:51:44,435 - INFO -  - Non-Synonymous variants: 4362
+2025-01-20 14:51:44,435 - INFO - Results saved: View Output_Variants.tsv and Variant_Numbers.png
